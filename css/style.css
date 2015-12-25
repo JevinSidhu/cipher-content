@@ -1,0 +1,166 @@
+body {
+  background-color:#FBFBFB;
+  font-family: "Montserrat";
+}
+
+.full-width {
+    width: 100%;
+    min-width: 100%;
+    max-width: 100%;
+}
+
+#header {
+  width:100%;
+}
+
+.head-main {
+  background-color: #2D4059;
+}
+
+.head-intro {
+  background-color:#35BAA4;
+}
+
+.head-intro-setup {
+  background-color:#DF4E5E;
+}
+
+#logo {
+  margin-top: 45px;
+  margin-left:45px;
+  height: 75px;
+  width: auto;
+}
+
+.heading {
+  color: #fff;
+  font-size: 60px;
+  font-weight: 700;
+  text-align: center;
+  margin-top: 100px;
+  padding-bottom:100px;
+}
+
+.heading-playlist {
+  color: #fff;
+  font-size: 60px;
+  font-weight: 700;
+  text-align: center;
+  margin-top:-10px;
+  padding-bottom:100px;
+}
+
+#intro {
+  margin-top:50px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align: center;
+  color:#fff;
+}
+
+.intro-main {
+  background-color:#35BAA4;
+}
+
+.intro-intro {
+  background-color:#DF4E5E;
+}
+
+.playlist-heading {
+  font-size:36px;
+}
+
+.playlist-desc {
+  font-size:23px;
+}
+
+.playlist-spacer {
+  height:5px;
+  width:150px;
+  border:none;
+  color:#fff;
+  background-color:#fff;
+
+}
+
+#coming-soon {
+  margin-top:52px;
+  margin-bottom:63px;
+  font-weight:400;
+}
+
+.soon {
+  text-align:center;
+  color:#8D8D8D;
+}
+
+.hashtag {
+  text-align:center;
+  margin-top: 120px;
+  margin-bottom:-10px;
+  color: #EEE;
+  opacity: 0.75;
+  }
+
+/* Guides Sections */
+
+.body-writing {
+    font-size:20px;
+    max-width:750px;
+    line-height:1.7;
+    margin-left:auto;
+    margin-right:auto;
+    color: rgb(51, 51, 51);
+    -webkit-font-smoothing: antialiased;
+}
+
+.main-header {
+    font-size:50px;
+    font-weight:900;
+    color:#383838;
+    text-align: left;
+    margin-bottom:10px;
+    text-transform:capitalize;
+}
+
+.minor-header {
+    font-size:27px;
+    line-height:1.5;
+    font-weight:900;
+    text-align: left;
+    margin-top:30px;
+}
+
+.main-text {
+    font-family: "PT Serif";
+    color: rgb(51, 51, 51);
+    margin-bottom:25px;
+}
+
+.article-img {
+  margin-bottom: 25px;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.bold {
+    font-weight:700;
+}
+
+a.links {
+    color: rgb(51, 51, 51);
+    text-decoration:underline;
+}
+
+a.links:hover{
+    color: rgb(51, 51, 51);
+    text-decoration:underline;
+
+}
+
+a.links:visited {
+    color: rgb(51, 51, 51);
+    text-decoration:underline;
+}
